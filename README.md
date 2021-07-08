@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 Learning webDev
+🌱 Learning ML/Data Science
 
 <!--
 **khanmazhar/khanmazhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
