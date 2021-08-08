@@ -24,7 +24,7 @@
 ### Badges
 - [Google Data Analytics](https://www.credly.com/badges/4ff94946-8844-4c50-a15b-74440497f9ef/public_url)
 
-
+### GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=khanmazhar&show_icons=true&locale=en" alt="khanmazhar" /><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khanmazhar&" alt="khanmazhar" /></p>
