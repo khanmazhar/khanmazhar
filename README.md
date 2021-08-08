@@ -16,7 +16,7 @@
 ### Projects
 - SQL Projects:
   - [Normalizing and Analyzing Covid-19 Data with SQL](https://github.com/khanmazhar/Normalizing-and-Analyzing-Covid-19-Data-with-SQL)
-
+  - [Data Cleaning with SQL](https://github.com/khanmazhar/data-cleaning-with-sql)
 ### Certifications
 - [Data Analytics Professional Certificate by Google](https://coursera.org/share/d70897d3469ed3ed51a8265c47a79147)
 - [Python For Everybody Specialization by University of Michigan](https://coursera.org/share/bba9b363783960b305b8ed78ea7c1636)
