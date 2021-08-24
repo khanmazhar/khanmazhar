@@ -23,7 +23,7 @@
   - [Visualizing a bank's customers data](https://public.tableau.com/shared/XDW6976ZT?:display_count=n&:origin=viz_share_link)
 
 - Python Projects:
-  - [Exploratory Data Analysis and Correlation in Movies Data](https://github.com/khanmazhar/Movies-Data-Analysis-with-Python)
+  - Exploratory Data Analysis and Correlation in Movies Data: [Link1: Published on DataCamp](https://app.datacamp.com/workspace/w/e91f9c2d-c9dd-4709-b1a7-972d5f2b621e), [Link2: GitHub](https://github.com/khanmazhar/Movies-Data-Analysis-with-Python)
 
 
 ### Certifications
