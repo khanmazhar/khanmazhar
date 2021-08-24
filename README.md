@@ -3,9 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning for Data Science**
-
-- 👯 I’m looking to collaborate on **Data Science projects**
 
 - 📫 How to reach me **khanmazhar9101@gmail.com**
 
